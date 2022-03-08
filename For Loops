@@ -1,0 +1,22 @@
+Types of for loops:
+
+for char in str:
+  char = the character itself in the string
+
+for i in range(len(str):
+  i = index of char
+
+for i, n in enumerate(str):
+  i = index
+  n = character in string
+
+for a, b in listOfTuples:
+  a = first part of tuple
+  b = second part of tuple
+
+#given that a, b, c are numbers defined in parameters
+for amount, char in [(-a, "a"), (-b, "b"), (-c, "c")]:
+  you can define a list in the for loop parameters and assign a, b, and c to the characters they represent
+
+
+  
